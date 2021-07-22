@@ -126,6 +126,9 @@ body {
 }
 @media (max-width:767px){
   .card-wrapper{
+    display:flex;
+  align-items: center;
+  justify-content: center;
     width:70%;
   }
 }
