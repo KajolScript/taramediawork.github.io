@@ -125,7 +125,7 @@ body {
   font-weight: 600;
 }
 @media (max-width:767px){
-  .card-wrapper .card{
+  .card-wrapper{
     display:flex;
   align-items: center;
   justify-content: center;
